@@ -1,3 +1,3 @@
 # SpaceInvaders
-an iplmentstion of space inaveders in python 
+an implementation of space invaders in python 
 built a a first year project 

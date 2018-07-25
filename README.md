@@ -1,5 +1,5 @@
 # SpaceInvaders
 an implementation of space invaders in python 
-built a a first year project 
+built for a first year module 
 
 needs implementing further to be a complete space invaders game
